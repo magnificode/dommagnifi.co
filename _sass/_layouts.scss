@@ -11,3 +11,25 @@
     	}
     }
 }
+/*------------------------------------*\
+    ::Post Excertps
+\*------------------------------------*/
+.posts{
+	padding: {top:$pad*3;}
+}
+.post{
+	h2{
+		margin: {bottom: 0;}
+	}
+}
+.post-meta{
+	margin: {top:$pad;}
+	svg{
+		width: 15px;
+		height: 15px;
+		margin: {right: $pad/2;}
+	}
+}
+.rss-subscribe{
+	text-align: center;
+}
