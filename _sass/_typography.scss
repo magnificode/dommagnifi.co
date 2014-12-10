@@ -8,4 +8,9 @@ h1{
 
 a{
 	color: $color-3;
+	text-decoration: none;
+	transition: color 400ms;
+	&:hover{
+		color: lighten($color-3, 15%);
+	}
 }
