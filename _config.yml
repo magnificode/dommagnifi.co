@@ -9,4 +9,4 @@ twitter_username: magnificode
 github_username:  magnificode
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
