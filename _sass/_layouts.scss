@@ -1,7 +1,13 @@
 /*------------------------------------*\
-    ::Full Height
+    ::Site Header
 \*------------------------------------*/
-.high{
-    height: 100%;
+.site-header{
     text-align: center;
+    .header__social{
+	display: inline-block;
+    	width: 100%;
+    	a{
+    		margin: {right:$pad*2;}
+    	}
+    }
 }
