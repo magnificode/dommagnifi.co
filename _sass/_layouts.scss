@@ -18,8 +18,17 @@
 	padding: {top:$pad*3;}
 }
 .post{
+	padding: {left:$pad;right:$pad;}
+	h1{
+		font-size: 1.5em;
+	}
 	h2{
 		margin: {bottom: 0;}
+	}
+	@media only screen and (min-width:  480px){
+		h1{
+			font-size: 3vw;
+		}
 	}
 }
 .post-meta{
@@ -33,3 +42,8 @@
 .rss-subscribe{
 	text-align: center;
 }
+
+
+/*------------------------------------*\
+    ::Single Posts
+\*------------------------------------*/
