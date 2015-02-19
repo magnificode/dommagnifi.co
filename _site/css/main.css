@@ -67,6 +67,12 @@ a {
   a:hover {
     color: #f3638e; }
 
+blockquote {
+  background: #e0e0e0;
+  border-left: 5px solid #ED1C5B;
+  padding: 0.9375rem;
+  font-style: italic; }
+
 /*------------------------------------*\
     ::Site Header
 \*------------------------------------*/
