@@ -41,6 +41,9 @@ html {
   max-width: 1140px;
   margin: 0 auto; }
 
+img {
+  max-width: 100%; }
+
 svg {
   width: 50px;
   height: 50px;
@@ -115,6 +118,10 @@ blockquote {
 /*------------------------------------*\
     ::Single Posts
 \*------------------------------------*/
+.post-content img {
+  display: block;
+  margin: 0 auto; }
+
 /*------------------------------------*\
     ::Site Header
 \*------------------------------------*/
