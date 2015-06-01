@@ -6,9 +6,46 @@
 </description>
     <link>http://dommagnifi.co/</link>
     <atom:link href="http://dommagnifi.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 May 2015 11:26:25 -0600</pubDate>
-    <lastBuildDate>Tue, 19 May 2015 11:26:25 -0600</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2015 15:07:07 -0600</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2015 15:07:07 -0600</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>The Importance of Company-wide Respect for Process</title>
+        <description>&lt;p&gt;In my previous post I duscussed how to start setting up processes within your team. If you haven’t read it, check it out &lt;a href=&quot;http://dommagnifi.co/update/2015/05/14/spinning-up-process.html&quot;&gt;here&lt;/a&gt;. This post will focus more on the integration of that process to the whole team, and the importance of company wide adoption.&lt;/p&gt;
+
+&lt;h2 id=&quot;start-at-the-top&quot;&gt;Start at The Top&lt;/h2&gt;
+
+&lt;p&gt;The main point here is that business has to be on board with the process. At Zenman when we decide a process needs to be tweaked, or an entirely new one is called for, we write up an explanation of any problems that it will help to alleviate, any additional time that this process will add to the overall project, and lastly pros and cons for this new process.&lt;/p&gt;
+
+&lt;p&gt;It’s entirely possible that the risk involved with the tweak in process may not be worth it to business, and you as a developer or designer need to be prepared to be shot down. Take the concerns that busness has and rework your plan. Get the high level folks on board and it’s all downhill from there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://bukk.it/business.jpg&quot; alt=&quot;Haha Business&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;project-management&quot;&gt;Project Management&lt;/h2&gt;
+
+&lt;p&gt;Once you’ve got business all warm and fuzzy about this fantastic new process, your likely next step will be to talk to project management. It’s immensely improtant that your Project Managers / Account Managers are aware of this process change so that they can plan accordingly. There’s nothing that will piss off a PM or AM more than a change in process that directly affects the way they interact with the client, so ensuring that they fully understand the need for this process, and exactly what issues it will help to alleviate is real important.&lt;/p&gt;
+
+&lt;p&gt;As long as your PM or AM is comfortable, and understands the process as well, they’ll have no problem adhearing to it and ensuring that the client is made aware of the change. Or, at the very least, they will ensure that the process is put into place for the next project.&lt;/p&gt;
+
+&lt;h2 id=&quot;team-participation&quot;&gt;Team Participation&lt;/h2&gt;
+
+&lt;p&gt;Throughout this whole process it’s important to keep your team in the loop. At Zenman we believe in being super transparant, so any time we think about implementing a change that could possibly affect the whole team, we loop them in. From the very beginning we ask for input from the whole team in regards to this new, or improved, process and address any concerns that come up. This step should most definitely be integrated into the planning stage of your new process.&lt;/p&gt;
+
+&lt;p&gt;This high level of transparancy helps to ensure that your team is not blindsided by this change in process, and it also ensures that your whole team has had a chance to voice their concerns.&lt;/p&gt;
+
+&lt;p&gt;This section is a little bit smaller than the last, but without a doubt it is very important. You can be Captain Process all by yourself as much as you want, but if your the whole team isn’t on board then you’re setting yourself up for failure. Collaboration within your department yeilds huge benefits, and will without a doubt expedite the process when you present your idea to business.&lt;/p&gt;
+
+&lt;p&gt;This series of posts will be turned into a talk that I’ll be doing at Refresh Denver on August 12th. &lt;a href=&quot;http://www.meetup.com/refreshdenver/events/219844847/&quot;&gt;Check it out and RSVP if you’re interested!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 09:51:00 -0600</pubDate>
+        <link>http://dommagnifi.co/update/2015/06/01/the-importance-of-company-wide-respect-for-process.html</link>
+        <guid isPermaLink="true">http://dommagnifi.co/update/2015/06/01/the-importance-of-company-wide-respect-for-process.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Spinning Up Process</title>
@@ -30,7 +67,7 @@
 
 &lt;p&gt;One of the best things about the process that we implemented at Zenman is that it is effective for projects of all sizes. From Fortune 500 companies down to startups, our process works. There is no more tempting time to skip out on process then on a small project. This is where you kind of have to reign in the project managers and sales folks. At this point, a PM or AM will try to tempt you with promises of gold and mir to break process and get the task done in record time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://bukk.it/noooooooooo.gif&quot; alt=&quot;alt text&quot; title=&quot;noooooooooo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://bukk.it/noooooooooo.gif&quot; alt=&quot;nope nope nope&quot; title=&quot;noooooooooo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;DON’T DO IT! Sticking to the process may incur a little bit of extra time up front, but for the love of God it has the potential to save your ass in the long run.&lt;/p&gt;
 

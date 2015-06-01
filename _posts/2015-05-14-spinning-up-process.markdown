@@ -22,7 +22,7 @@ Just to give you a little insight into our discovery process, from a development
 
 One of the best things about the process that we implemented at Zenman is that it is effective for projects of all sizes. From Fortune 500 companies down to startups, our process works. There is no more tempting time to skip out on process then on a small project. This is where you kind of have to reign in the project managers and sales folks. At this point, a PM or AM will try to tempt you with promises of gold and mir to break process and get the task done in record time.
 
-![alt text](http://bukk.it/noooooooooo.gif "noooooooooo")
+![nope nope nope](http://bukk.it/noooooooooo.gif "noooooooooo")
 
 DON'T DO IT! Sticking to the process may incur a little bit of extra time up front, but for the love of God it has the potential to save your ass in the long run.
 
